@@ -16,6 +16,10 @@ jobs:
       run: |
         cp .envproduction .env
 
+    - name: 📂 Copy p.htaccess to .htaccess
+      run: |
+        cp p.htaccess .htaccess
+
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
