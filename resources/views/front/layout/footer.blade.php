@@ -88,7 +88,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a href="{{ route('home') }}" class="text-primary">FROZEN FLOUR</a>, All Rights Reserved.
+                    &copy; <a href="{{ route('home') }}" class="text-primary">FROZEN FLOUR</a>, Non Rights Reserved.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     Designed by <a href="https://htmlcodex.com" target="_blank" rel="noopener noreferrer" class="text-light">HTML Codex</a> | Distributed by
