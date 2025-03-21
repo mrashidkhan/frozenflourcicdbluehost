@@ -1,1 +1,5 @@
 .env
+.envproduction
+.env.example
+old.gitignore
+p.htaccess

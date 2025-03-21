@@ -12,13 +12,13 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2.3.2
 
-    - name: 📂 Copy .envproduction to .env
-      run: |
-        cp .envproduction .env
+    # - name: 📂 Copy .envproduction to .env
+    #   run: |
+    #     cp .envproduction .env
 
-    - name: 📂 Copy p.htaccess to .htaccess
-      run: |
-        cp p.htaccess .htaccess
+    # - name: 📂 Copy p.htaccess to .htaccess
+    #   run: |
+    #     cp p.htaccess .htaccess
 
 
     - name: 📂 Sync files
