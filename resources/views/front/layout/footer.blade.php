@@ -60,7 +60,8 @@
             <!-- Social Media Section -->
             <div class="col-lg-3 col-md-6 mb-4">
                 <h4 class="text-light mb-4">Follow Us</h4>
-                <p>Stay updated with our latest news and products.</p>
+                {{-- <p>Stay updated with our latest news and products.</p> --}}
+                <p>Visit our social media platforms for more information!</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-light rounded-circle me-1" href="https://x.com/frozenflour" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                         <i class="fab fa-twitter"></i>
